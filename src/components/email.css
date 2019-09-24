@@ -1,0 +1,21 @@
+
+.emailBody{
+    display: flex;
+    flex-direction: row;
+
+}
+span{
+    padding:20px;
+    border-radius: 50%;
+    background-color: lightgreen;
+    color: white;
+}
+.bodyPart{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    color: grey;
+}
+h4{
+    font-size="1em"
+}
