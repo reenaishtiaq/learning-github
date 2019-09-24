@@ -2,11 +2,12 @@ import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
 import Email from './components/Email';
+import Nav from './components/Nav';
 
 function App() {
   return (
     <div className="App">
-      
+      <Nav/>
       <Email 
         letter="R" 
         name="reenaishtiaq" 

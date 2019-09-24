@@ -5,17 +5,25 @@
 
 }
 span{
-    padding:20px;
+    padding: 12px 20px;
     border-radius: 50%;
     background-color: lightgreen;
     color: white;
+    margin: 10px;
+    font-size: 1.5em;
 }
 .bodyPart{
     display: flex;
     flex-direction: column;
     margin: 5px;
     color: grey;
+    align-items: flex-start;
 }
 h4{
     font-size: 1em;
+    margin: 0;
+}
+p{
+    margin: 0;
+
 }
