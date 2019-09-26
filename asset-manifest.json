@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learning-github/static/css/main.ba59f990.chunk.css",
+    "main.js": "/learning-github/static/js/main.ce4b92ab.chunk.js",
+    "main.js.map": "/learning-github/static/js/main.ce4b92ab.chunk.js.map",
+    "runtime-main.js": "/learning-github/static/js/runtime-main.4b0f5ca0.js",
+    "runtime-main.js.map": "/learning-github/static/js/runtime-main.4b0f5ca0.js.map",
+    "static/js/2.18c881be.chunk.js": "/learning-github/static/js/2.18c881be.chunk.js",
+    "static/js/2.18c881be.chunk.js.map": "/learning-github/static/js/2.18c881be.chunk.js.map",
+    "index.html": "/learning-github/index.html",
+    "precache-manifest.2f60d9eeb7ac255dc1e8cc2e8be37fb8.js": "/learning-github/precache-manifest.2f60d9eeb7ac255dc1e8cc2e8be37fb8.js",
+    "service-worker.js": "/learning-github/service-worker.js",
+    "static/css/main.ba59f990.chunk.css.map": "/learning-github/static/css/main.ba59f990.chunk.css.map"
+  }
+}
